@@ -8,3 +8,6 @@ The following images show both sides of a board that's permanently configured as
 <img width="1523" height="1347" alt="image" src="https://github.com/user-attachments/assets/5c86b9f2-6d90-4a6a-9e91-223d1699c877" />
 <img width="1296" height="1347" alt="image" src="https://github.com/user-attachments/assets/4d364e19-7307-4bd8-b185-b43d7aaacebe" />
 
+Following is a photo of the M8650 Serial Port Connector plugged into a DEC M8650 board that is installed in a PDP-8/m.
+<img width="1500" height="1347" alt="image" src="https://github.com/user-attachments/assets/168735f2-6e74-49ec-8e91-fe53bc50bebe" />
+
